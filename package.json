@@ -1,0 +1,19 @@
+{
+  "name": "fursole",
+  "version": "1.0.0",
+  "description": "Drop in replacement for console.log that shows animals speaking instead",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lawwrr/fursole.git"
+  },
+  "author": "Laura mayhem",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
