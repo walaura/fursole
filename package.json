@@ -1,6 +1,6 @@
 {
   "name": "fursole",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Drop in replacement for console.log that shows animals speaking instead",
   "main": "app.js",
   "scripts": {
